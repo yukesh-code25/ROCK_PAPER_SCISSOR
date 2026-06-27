@@ -39,12 +39,11 @@ The player chooses **Rock**, **Paper**, or **Scissors**, while the computer rand
 
 ```
 **Live demo:** https://rock-paper-scissor-sable-five.vercel.app/
-```
 
 **GitHub Repository**
 
 ```
-**https:** //github.com/yukesh-code25/rock-paper-scissors
+https://github.com/yukesh-code25/rock-paper-scissors
 ```
 
 ---
