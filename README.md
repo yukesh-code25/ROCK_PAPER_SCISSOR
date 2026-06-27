@@ -35,9 +35,6 @@ The player chooses **Rock**, **Paper**, or **Scissors**, while the computer rand
 **Live Website**
 
 Live demo: https://rock-paper-scissor-sable-five.vercel.app/
-
-```
-
 ---
 
 # 🎯 Game Rules
