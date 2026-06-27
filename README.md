@@ -49,13 +49,13 @@ Live demo: https://rock-paper-scissor-sable-five.vercel.app/
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
-**Yukesh_R**
+**YUKESH_R**
 
- GitHub: https: //github.com/yukesh-code25
+GitHub: https://github.com/yukesh-code25
 
- LinkedIn: https: https://www.linkedin.com/in/yukesh-r-9b51bb2a5/
+LinkedIn: https://www.linkedin.com/in/yukesh-r-9b51bb2a5/
 
 ---
 
