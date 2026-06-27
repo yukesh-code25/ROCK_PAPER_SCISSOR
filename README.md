@@ -38,9 +38,9 @@ The player chooses **Rock**, **Paper**, or **Scissors**, while the computer rand
 **Live Website**
 
 ```
-**Live demo:** https://rock-paper-scissor-sable-five.vercel.app/
+Live demo: https://rock-paper-scissor-sable-five.vercel.app/
 
-**GitHub Repository**
+# GitHub Repository
 
 ```
 https://github.com/yukesh-code25/rock-paper-scissors
@@ -50,7 +50,6 @@ https://github.com/yukesh-code25/rock-paper-scissors
 
 # 📂 Project Structure
 
-```
 rock-paper-scissors/
 │── index.html
 │── style.css
