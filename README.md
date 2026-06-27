@@ -55,7 +55,7 @@ Live demo: https://rock-paper-scissor-sable-five.vercel.app/
 
  GitHub: https: //github.com/yukesh-code25
 
- LinkedIn: https: //www.linkedin.com/in/yukesh-r-9b51bb2a5/
+ LinkedIn: https: https://www.linkedin.com/in/yukesh-r-9b51bb2a5/
 
 ---
 
