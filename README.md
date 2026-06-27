@@ -36,17 +36,6 @@ The player chooses **Rock**, **Paper**, or **Scissors**, while the computer rand
 
 Live demo: https://rock-paper-scissor-sable-five.vercel.app/
 
----
-
-# 📂 Project Structure
-
-rock-paper-scissors/
-│── index.html
-│── style.css
-│── script.js
-│── screenshots/
-│     └── rock-paper-scissors.png
-└── README.md
 ```
 
 ---
@@ -64,9 +53,9 @@ rock-paper-scissors/
 
 **Yukesh_R**
 
-**GitHub:** https://github.com/yukesh-code25
+ GitHub: https://github.com/yukesh-code25
 
-**LinkedIn:** https://www.linkedin.com/in/yukesh-r-9b51bb2a5/
+ LinkedIn: https://www.linkedin.com/in/yukesh-r-9b51bb2a5/
 
 ---
 
